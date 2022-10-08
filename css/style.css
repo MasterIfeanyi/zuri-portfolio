@@ -36,6 +36,7 @@ nav .container {
 
 nav .container a {
   color: white;
+  text-decoration: none;
 }
 
 nav ul .li {
